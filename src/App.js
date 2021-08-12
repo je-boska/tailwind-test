@@ -1,3 +1,4 @@
+import { Feature } from './components/Feature'
 import { Grid } from './components/Grid'
 import { Hero } from './components/Hero'
 
@@ -6,6 +7,7 @@ function App() {
     <div className='App'>
       <Hero />
       <Grid />
+      <Feature />
     </div>
   )
 }
