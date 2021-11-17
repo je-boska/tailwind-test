@@ -25,7 +25,7 @@ export const Hero = () => {
               <p class='mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0'>
                 Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui
                 lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat
-                fugiat aliqua.
+                fugiat aliqua. Test.
               </p>
               <div class='mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start'>
                 <div class='rounded-md shadow'>
